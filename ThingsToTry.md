@@ -3,5 +3,5 @@
 ### LASER
 
 
-###CNC
-https://github.com/vascojdb/gerber2gcode
+### CNC
+* https://github.com/vascojdb/gerber2gcode
