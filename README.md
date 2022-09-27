@@ -13,7 +13,7 @@ Requirements
       EidVGS 2022
       Project "Setebelte"
       Graphics
-        https://gfwilliams.github.io/svgtoeagle/)
+        https://gfwilliams.github.io/svgtoeagle/
         https://linuxhint.com/convert-png-to-svg-inkscape/#:~:text=In%20Inkscape%2C%20you%20can%20not,on%20how%20to%20do%20that.
       
       https://www.svgrepo.com/svg/253118/seatbelt
