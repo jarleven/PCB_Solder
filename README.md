@@ -19,4 +19,8 @@ Requirements
       https://www.svgrepo.com/svg/253118/seatbelt
       https://www.flaticon.com/free-icon/seat-belt_271884
       
+      
+      Seatbelt icon clumsy howto :-)
+      https://autode.sk/3DX8VwU
+      
   ```
