@@ -10,7 +10,7 @@
 
 ### Board example
 
-!['Board'](https://github.com/jarleven/PCB_Solder/raw/main/LM317/LM317_Board.png)
+!['Board'](https://github.com/jarleven/PCB_Solder/raw/main/LM317/LM317_PCB.png)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Board example
 
-!['Board'](https://github.com/jarleven/PCB_Solder/raw/main/LM317/TransformerBoard.png)
+!['Board'](https://github.com/jarleven/PCB_Solder/raw/main/LM317/TransformerPCB.png)
 
 
 
