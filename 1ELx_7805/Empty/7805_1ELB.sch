@@ -13696,11 +13696,11 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2"/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="SUPPLY3" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VCC" device=""/>
-<part name="IC4" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="78*" device="TV" package3d_urn="urn:adsk.eagle:package:16417/2" override_package3d_urn="urn:adsk.eagle:package:32903431/2" override_package_urn="urn:adsk.eagle:footprint:16154/1" technology="05"/>
-<part name="X1" library="con-wago-508" library_urn="urn:adsk.eagle:library:196" deviceset="W237-02P" device="" package3d_urn="urn:adsk.eagle:package:10734/1" override_package3d_urn="urn:adsk.eagle:package:32903411/2" override_package_urn="urn:adsk.eagle:footprint:10712/1"/>
-<part name="C1" library="Clean-Kong" deviceset="CPOL-EU" device="E5-8.5" override_package3d_urn="urn:adsk.eagle:package:32903541/2" override_package_urn="urn:adsk.eagle:footprint:32903542/1"/>
-<part name="C2" library="Clean-Kong" deviceset="CPOL-EU" device="E5-8.5" override_package3d_urn="urn:adsk.eagle:package:32903541/2" override_package_urn="urn:adsk.eagle:footprint:32903542/1"/>
-<part name="X2" library="con-wago-508" library_urn="urn:adsk.eagle:library:196" deviceset="W237-02P" device="" package3d_urn="urn:adsk.eagle:package:10734/1" override_package3d_urn="urn:adsk.eagle:package:32903411/2" override_package_urn="urn:adsk.eagle:footprint:10712/1"/>
+<part name="IC4" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="78*" device="TV" package3d_urn="urn:adsk.eagle:package:16417/2" technology="05"/>
+<part name="X1" library="con-wago-508" library_urn="urn:adsk.eagle:library:196" deviceset="W237-02P" device="" package3d_urn="urn:adsk.eagle:package:10734/1"/>
+<part name="C1" library="Clean-Kong" deviceset="CPOL-EU" device="E5-8.5"/>
+<part name="C2" library="Clean-Kong" deviceset="CPOL-EU" device="E5-8.5"/>
+<part name="X2" library="con-wago-508" library_urn="urn:adsk.eagle:library:196" deviceset="W237-02P" device="" package3d_urn="urn:adsk.eagle:package:10734/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -13771,11 +13771,6 @@ will not be understood (or retained) with this version.
 Since Version 8.3, EAGLE supports the association of 3D packages
 with devices in libraries, schematics, and board files. Those 3D
 packages will not be understood (or retained) with this version.
-</note>
-<note version="9.4" severity="warning">
-Since Version 9.4, EAGLE supports the overriding of 3D packages
-in schematics and board files. Those overridden 3d packages
-will not be understood (or retained) with this version.
 </note>
 <note version="8.4" severity="warning">
 Since Version 8.4, EAGLE supports properties for SPICE simulation. 
