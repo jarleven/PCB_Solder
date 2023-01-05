@@ -14,7 +14,12 @@
 
 [Rekkeklemme 3D Model](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/1ELx_7805/3D-Models/W237-132.step "download")
 
+```
+```
+#### Skjema
 
+[Skjema](https://https://github.com/jarleven/PCB_Solder/raw/main/1ELx_7805/Empty/7805_1ELB.sch
+ "download")
 
 ### Voltage regulator datasheet
 
