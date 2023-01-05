@@ -1,21 +1,11 @@
 ### Nedlastingar (Høgreklikk på link)
 #### 3D Models
-```
-```
-[78xx 3D Model](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/1ELx_7805/3D-Models/TO220HEATSINK.step "download")
+* [78xx 3D Model](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/1ELx_7805/3D-Models/TO220HEATSINK.step "download")
 
-```
-```
+* [Kondensator 3D Model](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/1ELx_7805/3D-Models/E5-8,5.step "download")
 
-[Kondensator 3D Model](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/1ELx_7805/3D-Models/E5-8,5.step "download")
+* [Rekkeklemme 3D Model](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/1ELx_7805/3D-Models/W237-132.step "download")
 
-```
-```
-
-[Rekkeklemme 3D Model](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/1ELx_7805/3D-Models/W237-132.step "download")
-
-```
-```
 #### Skjema
 
 [Skjema](https://github.com/jarleven/PCB_Solder/raw/main/1ELx_7805/Empty/7805_1ELB.sch
