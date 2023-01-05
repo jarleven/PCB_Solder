@@ -1,3 +1,9 @@
+
+### 3D Models
+
+[78xx 3D Model](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/1ELx_7805/3D-Models/TO220HEATSINK.step "download")
+
+
 ### Voltage regulator datasheet
 
 [78xx Voltage regulator datasheet](https://www.st.com/resource/en/datasheet/l78.pdf "download")
