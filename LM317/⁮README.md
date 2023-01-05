@@ -16,7 +16,7 @@
 
 #### Skjema
 
-* [Eagle schematic LM317](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/LM317/LM317.sch)
+* [Eagle schematic LM317](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/LM317/LM317.sch "download")
 * [Eagle schematic Transformer](https://raw.githubusercontent.com/jarleven/PCB_Solder/main/LM317/Transformer.sch "download")
 
 
