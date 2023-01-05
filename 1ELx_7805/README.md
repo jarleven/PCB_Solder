@@ -18,7 +18,7 @@
 ```
 #### Skjema
 
-[Skjema](https://https://github.com/jarleven/PCB_Solder/raw/main/1ELx_7805/Empty/7805_1ELB.sch
+[Skjema](https://github.com/jarleven/PCB_Solder/raw/main/1ELx_7805/Empty/7805_1ELB.sch
  "download")
 
 ### Voltage regulator datasheet
